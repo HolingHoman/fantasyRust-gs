@@ -69,6 +69,13 @@
 			"getMonitoringError": "An error occurred while receiving monitoring. Please try again later or contact the administrator. (Error: {{error}} )"
 		}
 	},
+	"information": {
+		"seo": {
+			"title": "{{shopName}} - Information",
+			"description": "Information {{shopName}}"
+		},
+		"openBtn": "Open"
+	},
 	"shop": {
 		"needAuth": "Authentication required",
 		"title": "Shop",
@@ -80,6 +87,10 @@
 			"searchPlaceholder": "Product name..."
 		},
 		"products": {
+			"kitsTitleCooldown": "Cooldown",
+			"kitsTitleCommand": "Command",
+			"kitsTitle": "Kits",
+			"openKit": "Open",
 			"notFound": "No data available",
 			"free": "Free",
 			"server": "Server",

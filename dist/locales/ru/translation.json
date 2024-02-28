@@ -68,6 +68,13 @@
 			"getMonitoringError": "Произошла ошибка при получении мониторинга. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )"
 		}
 	},
+	"information": {
+		"seo": {
+			"title": "{{shopName}} - Информация",
+			"description": "Информация {{shopName}}"
+		},
+		"openBtn": "Ознакомится"
+	},
 	"shop": {
 		"needAuth": "Необходима авторизация",
 		"title": "Магазин",
@@ -79,6 +86,10 @@
 			"searchPlaceholder": "Введите название товара..."
 		},
 		"products": {
+			"kitsTitleCooldown": "Перезарядка",
+			"kitsTitleCommand": "Команда",
+			"kitsTitle": "Наборы",
+			"openKit": "Открыть",
 			"notFound": "Данных нет",
 			"free": "Бесплатно",
 			"server": "Сервер",
